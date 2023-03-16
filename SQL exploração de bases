@@ -1,0 +1,9 @@
+Select * from dbamv.PRO_FAT;
+
+Select * from dbamv.VAL_PRO;
+
+Select * from dbamv.reg_fat;
+
+Select * from dbamv.itreg_fat;
+
+Select * from dbamv.itreg_amb;
